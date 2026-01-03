@@ -20,6 +20,7 @@
 
 *Select and visualize the best-performing models*
 
+---
 **🏗️ Analytical Pipeline (Inquiry Pipeline)**
 
 **1️⃣ Imports & Configuration**
@@ -88,6 +89,7 @@
 
 **Prepared high-cardinality categorical variables for ML models.**
 
+---
 **🤖 Machine Learning Workflow**
 **1️⃣ Movie Duration Regression**
 
@@ -123,6 +125,7 @@
 
 *Visual comparisons were used to assess model performance and stability.*
 
+---
 **🛠️ Tech Stack**
 
 **Python**
@@ -151,3 +154,4 @@
 
 **Delivered clear visual insights and model comparisons**
 
+---
