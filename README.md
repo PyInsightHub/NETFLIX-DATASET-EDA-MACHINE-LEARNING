@@ -142,6 +142,7 @@
 
 **Jupyter Notebook**
 
+---
 **📈 Final Outcome**
 
 **Built two complete regression pipelines**
