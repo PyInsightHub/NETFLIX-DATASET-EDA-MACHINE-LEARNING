@@ -1,4 +1,5 @@
 **🎬 Netflix Data Analytics & Machine Learning Project**
+
 **📌 Project Overview**
 
 *This project presents an end-to-end data analytics and machine learning pipeline built on a real-world Netflix dataset.*
