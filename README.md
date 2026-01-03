@@ -7,6 +7,7 @@
 
 *The workflow covers data ingestion, exploratory data analysis (EDA), feature engineering, visualization, regression modeling, and model evaluation.*
 
+---
 **🧠 Key Objectives**
 
 *Perform structured Exploratory Data Analysis (EDA)*
