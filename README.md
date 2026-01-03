@@ -19,6 +19,7 @@
 *Select and visualize the best-performing models*
 
 **🏗️ Analytical Pipeline (Inquiry Pipeline)**
+
 **1️⃣ Imports & Configuration**
 
 *Imported required Python libraries*
