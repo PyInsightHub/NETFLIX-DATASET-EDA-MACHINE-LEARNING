@@ -128,30 +128,30 @@
 ---
 # 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
-**Python**
+***Python***
 
-**Pandas**
+***Pandas***
 
-**NumPy**
+***NumPy***
 
-**Matplotlib**
+***Matplotlib***
 
-**Seaborn**
+***Seaborn***
 
-**Scikit-learn**
+***Scikit-learn***
 
-**Jupyter Notebook**
+***Jupyter Notebook***
 
 ---
 # 📈 𝐅𝐢𝐧𝐚𝐥 𝐎𝐮𝐭𝐜𝐨𝐦𝐞
 
-**Built two complete regression pipelines**
+***Built two complete regression pipelines***
 
-**🎥 Movie Duration Prediction**
+***🎥 Movie Duration Prediction***
 
-**📺 TV Show Duration Prediction**
+***📺 TV Show Duration Prediction***
 
-**Demonstrated the importance of EDA and feature engineering in improving ML performance**
+***Demonstrated the importance of EDA and feature engineering in improving ML performance***
 
 **Delivered clear visual insights and model comparisons**
 
