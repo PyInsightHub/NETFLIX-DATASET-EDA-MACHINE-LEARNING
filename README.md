@@ -1,6 +1,6 @@
-# 🎬 Netflix Data Analytics & Machine Learning Project
----
-# 📌 Project Overview
+# 🎬 𝐍𝐞𝐭𝐟𝐥𝐢𝐱 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 & 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭
+
+# 📌 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
 
 *This project presents an end-to-end data analytics and machine learning pipeline built on a real-world Netflix dataset.*
 *The objective is to extract meaningful insights from Netflix content data and build regression models to predict Movie duration and TV Show duration (seasons) using engineered features.*
@@ -8,7 +8,7 @@
 *The workflow covers data ingestion, exploratory data analysis (EDA), feature engineering, visualization, regression modeling, and model evaluation.*
 
 ---
-# 🧠 Key Objectives
+# 🧠 𝐊𝐞𝐲 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞𝐬
 
 *Perform structured Exploratory Data Analysis (EDA)*
 
@@ -21,7 +21,7 @@
 *Select and visualize the best-performing models*
 
 ---
-# 🏗️ Analytical Pipeline (Inquiry Pipeline)
+# 🏗️ 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐚𝐥 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞 (𝐈𝐧𝐪𝐮𝐢𝐫𝐲 𝐏𝐢𝐩𝐞𝐥𝐢𝐧𝐞)
 
 **1️⃣ Imports & Configuration**
 
@@ -90,7 +90,7 @@
 **Prepared high-cardinality categorical variables for ML models.**
 
 ---
-# 🤖 Machine Learning Workflow
+# 🤖 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐖𝐨𝐫𝐤𝐟𝐥𝐨𝐰
 **1️⃣ Movie Duration Regression**
 
 *Prepared ML-ready dataset with engineered features*
@@ -126,7 +126,7 @@
 *Visual comparisons were used to assess model performance and stability.*
 
 ---
-# 🛠️ Tech Stack
+# 🛠️ 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤
 
 **Python**
 
@@ -143,7 +143,7 @@
 **Jupyter Notebook**
 
 ---
-# 📈 Final Outcome
+# 📈 𝐅𝐢𝐧𝐚𝐥 𝐎𝐮𝐭𝐜𝐨𝐦𝐞
 
 **Built two complete regression pipelines**
 
